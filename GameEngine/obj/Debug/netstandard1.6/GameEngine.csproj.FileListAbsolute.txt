@@ -1,0 +1,10 @@
+C:\Users\Alejandro Bugajski\Proyectos\Cursos\Game\GameEngine\bin\Debug\netstandard1.6\GameEngine.deps.json
+C:\Users\Alejandro Bugajski\Proyectos\Cursos\Game\GameEngine\bin\Debug\netstandard1.6\GameEngine.dll
+C:\Users\Alejandro Bugajski\Proyectos\Cursos\Game\GameEngine\bin\Debug\netstandard1.6\GameEngine.pdb
+C:\Users\Alejandro Bugajski\Proyectos\Cursos\Game\GameEngine\obj\Debug\netstandard1.6\GameEngine.csproj.AssemblyReference.cache
+C:\Users\Alejandro Bugajski\Proyectos\Cursos\Game\GameEngine\obj\Debug\netstandard1.6\GameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro Bugajski\Proyectos\Cursos\Game\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfoInputs.cache
+C:\Users\Alejandro Bugajski\Proyectos\Cursos\Game\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfo.cs
+C:\Users\Alejandro Bugajski\Proyectos\Cursos\Game\GameEngine\obj\Debug\netstandard1.6\GameEngine.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro Bugajski\Proyectos\Cursos\Game\GameEngine\obj\Debug\netstandard1.6\GameEngine.dll
+C:\Users\Alejandro Bugajski\Proyectos\Cursos\Game\GameEngine\obj\Debug\netstandard1.6\GameEngine.pdb
